@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AnalyticsGrid</string>
+    <string name="title">Показатели</string>
+    <string name="refresh">Обновить</string>
+</resources>
