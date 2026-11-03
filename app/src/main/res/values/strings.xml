@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">AnalyticsGrid</string>
     <string name="title">Показатели</string>
-    <string name="refresh">Обновить</string>
+    <string name="total_count">Всего: %d</string>
+    <string name="add_item">Добавить</string>
+    <string name="toast_message">Нажато число: %d</string>
 </resources>
